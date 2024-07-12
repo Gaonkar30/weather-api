@@ -78,6 +78,6 @@ This project is a simple weather API that fetches weather data using the Visual 
 
 ## Error Handling
 
-- **Redis Errors**: Errors related to Redis operations are logged, and a 500 status code is returned.
-- **API Errors**: Errors from the Visual Crossing API are logged, and a 500 status code is returned.
+- **Redis Errors**: Errors related to Redis operations are logged
+- **API Errors**: Errors from the Visual Crossing API are logged
 
