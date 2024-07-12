@@ -66,7 +66,7 @@ This project is a simple weather API that fetches weather data using the Visual 
 
 - **Redis Client**: A Redis client is created to interact with the Redis server. It handles connections and executes Redis commands.
 
-- **Weather Endpoint**: The `/weather` endpoint accepts a city as a query parameter, checks the Redis cache for data, fetches data from the Visual Crossing API if not cached, and stores the fetched data in Redis with a 12-hour expiration.
+- **Weather Endpoint**: The `/weather` endpoint accepts a city as a query parameter, checks the Redis cache for data, fetches data from the Visual Crossing API if not cached, and stores the fetched data in Redis with a 10-hour expiration.
 
 ### Redis Caching
 
