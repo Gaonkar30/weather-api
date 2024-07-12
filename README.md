@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Weather API with Redis Caching
 
 This project is a simple weather API that fetches weather data using the Visual Crossing API and caches the results using Redis. The API returns weather information for a given city, with caching to improve performance and reduce redundant API calls.
