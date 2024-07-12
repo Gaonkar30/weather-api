@@ -1,4 +1,4 @@
-Sure! Here is a `README.md` file for the weather API project using Visual Crossing and Redis for caching:
+
 
 ```markdown
 # Weather API with Redis Caching
@@ -81,14 +81,3 @@ This project is a simple weather API that fetches weather data using the Visual 
 - **Redis Errors**: Errors related to Redis operations are logged, and a 500 status code is returned.
 - **API Errors**: Errors from the Visual Crossing API are logged, and a 500 status code is returned.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [Visual Crossing Weather API](https://www.visualcrossing.com/weather-api)
-- [Redis](https://redis.io/)
-```
-
-This `README.md` file provides an overview of the project, installation instructions, configuration steps, usage, code explanation, and error handling. You can customize it further based on your specific project details and requirements.
